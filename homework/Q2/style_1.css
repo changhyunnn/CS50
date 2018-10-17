@@ -14,11 +14,13 @@ aside {
   float: left;
 	width: 200px;
 	position: fixed;
+
 }
 
 .main {
 	background-color: skyblue;
 	/* TODO: 이 곳을 채우세요! */
-  float: right;
-	margin-left: 200px;
+	height: 100%;
+	left: 200px;
+	position: absolute;
 }
